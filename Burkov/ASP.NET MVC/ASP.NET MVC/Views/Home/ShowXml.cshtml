@@ -1,0 +1,46 @@
+﻿@using ASP.NET_MVC.Models
+@using System.Globalization
+@model Data
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Данные из xml</title>
+    <link href="~/Content/Site.css" rel="stylesheet">
+</head>
+<body class="body">
+    <div class="divXML">
+        <h1>Данные из xml</h1>
+        <p>Фио: @Model.FullName</p>
+        <p>Рейтинг: @Model.Raiting</p>
+        <p>Разряд: @Model.Rank</p>
+        <p>Дата рождения: @Model.BirthDate.ToString("dd.MM.yyy", DateTimeFormatInfo.InvariantInfo)</p>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Название турнира</th>
+                        <th>Занятое место</th>
+                        <th>Процент набраных очков</th>
+                        <th>Дата</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var str in Model.Tournamets)
+                    {
+                        <tr>
+                            @foreach (var line in str)
+                            {
+                                <td>@line</td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

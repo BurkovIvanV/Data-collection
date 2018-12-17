@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FullName>Бурков Иван Вадимович</FullName>
+  <Raiting>2002</Raiting>
+  <Rank>Кандидат в мастера</Rank>
+  <BirthDate>1998-05-28T00:00:00</BirthDate>
+  <Tournamets>
+    <ArrayOfString>
+      <string>Первенство свердловской области</string>
+      <string>3</string>
+      <string>71</string>
+      <string>28.08.2015</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Кубок губернатора Челябинской области</string>
+      <string>10</string>
+      <string>60</string>
+      <string>08.07.2016</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Магнизит-255</string>
+      <string>14</string>
+      <string>55</string>
+      <string>06.07.2018</string>
+    </ArrayOfString>
+  </Tournamets>
+</Data>

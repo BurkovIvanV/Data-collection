@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("ShowXml", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="file-upload">
+        <label>
+            <input type="file" onchange="form.submit()" name="file" accept="text/xml"/>
+            <span>Выберите файл</span>
+        </label>
+    </div>
+}

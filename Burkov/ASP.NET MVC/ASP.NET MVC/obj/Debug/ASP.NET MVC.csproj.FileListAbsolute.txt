@@ -1,0 +1,87 @@
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ASP.NET MVC.dll.config
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ASP.NET MVC.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ASP.NET MVC.pdb
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csc.exe
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csc.exe.config
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csc.rsp
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csi.exe
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csi.exe.config
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csi.rsp
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.AppContext.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Console.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\vbc.exe
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\vbc.exe.config
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\vbc.rsp
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Antlr3.Runtime.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Newtonsoft.Json.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Helpers.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Mvc.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Optimization.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Razor.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.WebPages.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\WebGrease.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Helpers.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Mvc.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Optimization.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Razor.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.WebPages.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Newtonsoft.Json.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Antlr3.Runtime.pdb
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.csproj.CopyComplete
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.dll
+C:\Users\kolya\source\repos\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.pdb
